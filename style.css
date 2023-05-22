@@ -84,9 +84,10 @@ body {
     font-size: 0.9375vw;
     line-height: 1.6666666666666667vw;
 }
-.banner_first_article{
+
+.banner_first_article {
     margin-bottom: 1.7vw;
-    
+
     width: 30vw;
     font-weight: 400;
     font-size: 0.9375vw;
@@ -243,6 +244,7 @@ body {
 
     color: #090909;
 }
+
 /* .form_container>.col{
     margin-bottom: 0px;
 } */
@@ -290,6 +292,7 @@ body {
     background-color: black;
     cursor: pointer;
 }
+
 /* flow chart============================= */
 .flow_chart_img {
     width: 53.114583vw;
@@ -626,6 +629,7 @@ footer .one {
         margin-top: 8vw;
 
     }
+
     .request {
         width: 83.520833vw;
         height: 8.516667vw;
@@ -635,24 +639,27 @@ footer .one {
         font-size: 2.5375vw;
         font-weight: 500;
     }
+
     .login {
         width: 83.520833vw;
         height: 8.516667vw;
         border-radius: 6.28125vw;
         margin-bottom: 4vw;
-       
-      
+
+
         font-size: 2.5375vw;
         font-weight: 500;
     }
+
     .banner h1 {
         font-weight: 700;
         font-size: 8.333333vw;
         line-height: 9.53125vw;
         width: 86.260417vw;
         margin-bottom: 6.083333vw;
-        margin-top:6vw;
+        margin-top: 6vw;
     }
+
     .banner article {
         margin-bottom: 6.489583vw;
         width: 88vw;
@@ -660,9 +667,11 @@ footer .one {
         font-size: 2.9375vw;
         line-height: 3.666667vw;
     }
+
     .inside_banner {
         width: 94.479167vw;
     }
+
     .inside_banner h2 {
         font-weight: 600;
         font-size: 5.358333vw;
@@ -670,6 +679,7 @@ footer .one {
         margin-bottom: 5.410417vw;
         margin-top: 3vw;
     }
+
     .inside_banner_logo_container div {
         background: #F9F9F9;
         box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
@@ -682,38 +692,45 @@ footer .one {
         align-items: center;
         margin-bottom: 7vw;
     }
+
     .acrobat {
         width: 30.108854vw;
         height: 24.108854vw;
         margin-bottom: 3.364583vw;
     }
+
     .inside_banner_logo_container div p {
         font-weight: 400;
         font-size: 3.572865vw;
         line-height: 0.8333333333333334vw;
         margin-bottom: 0px;
     }
+
     .zip {
         width: 25.758333vw;
         height: 17.65625vw;
         margin-bottom: 3.732813vw;
     }
+
     .audacity {
         width: 24.230208vw;
         height: 24.230208vw;
         margin-bottom: 3.163542vw;
     }
+
     .benifit-form>.row {
         padding: 0vw 6.25vw;
         padding-top: 12.21875vw;
         padding-bottom: 17.291667vw;
         background: #F4FCFF;
     }
+
     .product_benifit {
         width: 88.802083vw;
         padding-bottom: 8.989583vw;
         margin-bottom: 6vw;
     }
+
     .product_benifit h1 {
         font-weight: 700;
         font-size: 5.770833vw;
@@ -722,20 +739,24 @@ footer .one {
         height: 20.1875vw;
         margin-bottom: 9.541667vw;
     }
+
     .product_benifit ul {
         padding-left: 5rem;
     }
+
     .product_benifit ul li {
         list-style: none;
         font-weight: 400;
         font-size: 2.9375vw;
         margin-bottom: 4.310417vw;
     }
+
     .product_benifit ul li img {
         width: 3.95vw;
         height: 2.932292vw;
         margin-right: 3.041667vw;
     }
+
     .product_benifit button {
         width: 74.385417vw;
         height: 9.916667vw;
@@ -745,9 +766,11 @@ footer .one {
         color: white;
         font-size: 2.9375vw;
     }
-    .form_container{
+
+    .form_container {
         padding-bottom: 11vw;
     }
+
     .form_container h2 {
         font-weight: 600;
         font-size: 5.25vw;
@@ -756,6 +779,7 @@ footer .one {
         margin-bottom: 1.09375vw;
         color: #090909;
     }
+
     .form_container article {
         font-weight: 400;
         font-size: 2.9375vw;
@@ -763,11 +787,13 @@ footer .one {
         width: 85.333333333333332vw;
         margin-top: 4vw;
     }
+
     .form-label {
         font-weight: 400;
         font-size: 2.833333vw;
         margin-bottom: 1.416667vw;
     }
+
     .form-control {
         width: 84.59375vw;
         height: 8.708333vw;
@@ -775,6 +801,7 @@ footer .one {
         border-radius: 7.020833vw;
         margin-bottom: 0.9375vw;
     }
+
     .form button {
         width: 84.59375vw;
         height: 8.708333vw;
@@ -785,39 +812,55 @@ footer .one {
         border: none;
         margin-top: 6.127083vw;
     }
+
     .monitor h1 {
         font-weight: 700;
         font-size: 6.291667vw;
         margin-bottom: 4.1458333333333333vw;
     }
+
     .monitor article {
         font-weight: 400;
         font-size: 2.9375vw;
     }
+
     .flow-chart article {
         width: 87.770833vw;
         font-size: 2.90vw;
         margin-bottom: 6vw;
     }
-    .three-boxes-container{
+
+    .three-boxes-container {
         flex-direction: column;
     }
-    .Box1 ,.Box2,.Box3{
+
+    .Box1,
+    .Box2,
+    .Box3 {
         margin-bottom: 6vw;
         width: 62.289583vw;
     }
-    .Box1 img, .Box2 img, .Box3 img {
+
+    .Box1 img,
+    .Box2 img,
+    .Box3 img {
         width: 8.255208vw;
         height: 8.499479vw;
         margin-top: 6.125vw;
         margin-bottom: 2.5520833333333335vw;
     }
-    .Box1 h3, .Box2 h3, .Box3 h3 {
+
+    .Box1 h3,
+    .Box2 h3,
+    .Box3 h3 {
         font-weight: 700;
         font-size: 3.25vw;
         line-height: 4.875vw;
     }
-    .Box1 article, .Box2 article, .Box3 article {
+
+    .Box1 article,
+    .Box2 article,
+    .Box3 article {
         font-weight: 400;
         font-size: 2vw;
         line-height: 2.570833vw;
@@ -825,6 +868,7 @@ footer .one {
         text-align: center;
         margin-bottom: 5.864583vw;
     }
+
     .software_application>.row .left h1 {
         font-weight: 700;
         font-size: 7.8125vw;
@@ -832,26 +876,31 @@ footer .one {
         color: #090909;
         margin-bottom: 8.395833vw;
     }
+
     .software_application {
         background: #F4FCFF;
         padding-top: 13.354167vw;
         padding-bottom: 7.557292vw;
     }
+
     .software_application>.row .left ul li {
         font-weight: 400;
         font-size: 2.9375vw;
         line-height: 6.447917vw;
     }
+
     .use-case {
         padding-left: 6.25vw;
         padding-top: 15.8125vw;
     }
+
     .use-case h1 {
         font-weight: 700;
         font-size: 6.8125vw;
         line-height: 5.802083vw;
         margin-bottom: 5.197917vw;
     }
+
     .use-case article {
         font-weight: 400;
         font-size: 2.9375vw;
@@ -859,17 +908,20 @@ footer .one {
         margin-bottom: 8.270833vw;
         width: 85.666667vw;
     }
+
     .use-case img {
         width: 88.333333vw;
         height: 75.661979vw;
         position: relative;
         top: 5vw;
     }
+
     .before-footer {
         background-color: #009EE2;
         padding-top: 18.3125vw;
         padding-bottom: 18.46875vw;
     }
+
     .before-footer h1 {
         width: 85.760417vw;
         font-weight: 700;
@@ -877,12 +929,14 @@ footer .one {
         line-height: 130.5%;
         margin-bottom: 2.7604166666666665vw;
     }
+
     .before-footer p {
         font-weight: 500;
         font-size: 2.945833vw;
         line-height: 205.5%;
         margin-bottom: 3.083333vw;
     }
+
     .before-footer button {
         width: 84.520833vw;
         height: 9.916667vw;
@@ -891,55 +945,87 @@ footer .one {
         border: 2px solid #FFFFFF;
         border-radius: 18.28125vw;
     }
+
     .footer-logo img {
         width: 22.98125vw;
         height: 8vw;
     }
+
     .linked_in {
         width: 2.196354vw;
         height: 2.143229vw;
     }
+
     .instagram {
         width: 2.275521vw;
         height: 2.275521vw;
     }
+
     .twitter {
         width: 2.457813vw;
         height: 2.184896vw;
     }
+
     .facebook {
         width: 1.577604vw;
         height: 2.242708vw;
     }
+
     .footer-icon ul {
         display: flex;
         width: 20.197917vw;
         justify-content: space-between;
         align-items: center;
     }
+
     .two ul {
         width: 62.510417vw;
     }
+
     .two ul li a {
         text-decoration: none;
         color: white;
         font-size: 1.9375vw;
     }
+
     .two p {
         font-size: 1.9375vw;
     }
-    body{
+
+    body {
         position: relative;
         overflow-x: hidden;
     }
+
     .software_application {
         position: relative;
     }
-    .software_application>.row .left{
+
+    .software_application>.row .left {
         width: 95%;
         padding-right: 0px;
         padding-left: 0px;
     }
-    
+
+
+    .banner article.banner_second_article {
+        margin-bottom: 3.4895833333333335vw;
+        width: 85vw;
+        font-weight: 400;
+        font-size: 2.9375vw;
+        line-height: 3.666667vw;
+    }
+    .flow_chart_img {
+        width: 87.114583vw;
+        height: 57.083vw;
+        /* position: relative; */
+        /* right: 1.7vw; */
+        /* top: -3vw; */
+    }
+    .monitor_row{
+        width: 93vw;
+        margin-left: 8vw;
+    }
+
 
 }
