@@ -288,7 +288,14 @@ body {
     background-color: black;
     cursor: pointer;
 }
-
+/* flow chart============================= */
+.flow_chart_img{
+    width: 55.114583vw;
+    height: 34.083vw;
+    position: relative;
+    right: 1.7vw;
+    top: -3vw;
+}
 
 /* monitor heading ==================*/
 .monitor {
