@@ -77,8 +77,16 @@ body {
     color: #00B0FC;
 }
 
-.banner article {
+.banner article.banner_second_article {
     margin-bottom: 3.4895833333333335vw;
+    width: 30vw;
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.6666666666666667vw;
+}
+.banner_first_article{
+    margin-bottom: 1.7vw;
+    
     width: 30vw;
     font-weight: 400;
     font-size: 0.9375vw;
@@ -857,7 +865,7 @@ footer .one {
         width: 85.760417vw;
         font-weight: 700;
         font-size: 5.975vw;
-        line-height: 174.5%;
+        line-height: 130.5%;
         margin-bottom: 2.7604166666666665vw;
     }
     .before-footer p {
@@ -912,7 +920,17 @@ footer .one {
         font-size: 1.9375vw;
     }
     body{
+        position: relative;
         overflow-x: hidden;
     }
+    .software_application {
+        position: relative;
+    }
+    .software_application>.row .left{
+        width: 95%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    
 
 }
