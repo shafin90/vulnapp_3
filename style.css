@@ -289,9 +289,9 @@ body {
     cursor: pointer;
 }
 /* flow chart============================= */
-.flow_chart_img{
-    width: 55.114583vw;
-    height: 34.083vw;
+.flow_chart_img {
+    width: 53.114583vw;
+    height: 32.083vw;
     position: relative;
     right: 1.7vw;
     top: -3vw;
