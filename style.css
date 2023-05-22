@@ -1,0 +1,915 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* nav================== */
+.navbar {
+    padding: 0vw 6.25vw;
+    margin-top: 2.03125vw;
+    margin-bottom: 6.666666666666667vw;
+}
+
+.navbar-brand img {
+    width: 11.719270833333333vw;
+    height: 3.8807291666666672vw;
+}
+
+.request {
+    width: 10.520833333333334vw;
+    height: 2.9166666666666665vw;
+    border-radius: 3.28125vw;
+    background: #0749CB;
+    color: white;
+    font-size: 0.9375vw;
+    font-weight: 500;
+}
+
+.request:hover {
+    background-color: black;
+    cursor: pointer;
+    color: white;
+}
+
+.login {
+    margin-right: 1vw;
+    width: 6.520833vw;
+    height: 2.9166666666666665vw;
+    border-radius: 3.28125vw;
+    background: white;
+    color: black;
+    font-size: 0.9375vw;
+    font-weight: 500;
+}
+
+.login:hover {
+    background-color: #00B0FC;
+    cursor: pointer;
+    color: white;
+}
+
+
+
+/* banner================================ */
+.banner {
+    padding: 0vw 6.25vw;
+    margin-bottom: 6.25vw;
+
+}
+
+.banner-image {
+    width: 46.822916666666664vw;
+    height: 32.239583333333336vw;
+}
+
+.banner h1 {
+    font-weight: 700;
+    font-size: 3.3333333333333335vw;
+    line-height: 4.53125vw;
+    width: 40.260416666666664vw;
+    margin-bottom: 2.0833333333333335vw;
+}
+
+.span {
+    color: #00B0FC;
+}
+
+.banner article {
+    margin-bottom: 3.4895833333333335vw;
+    width: 30vw;
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.6666666666666667vw;
+}
+
+.inside_banner {
+    width: 29.479166666666668vw;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 1.8229166666666667vw;
+    padding: 1.5625vw 2.8125vw;
+
+}
+
+.inside_banner h2 {
+    font-weight: 600;
+    font-size: 1.3583333333333333vw;
+    line-height: 2.1875vw;
+    margin-bottom: 1.4104166666666667vw;
+}
+
+.inside_banner_logo_container div {
+    background: #F9F9F9;
+    box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
+    border-radius: 0.817734375vw;
+    width: 5.969270833333334vw;
+    height: 5.396875vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .inside_banner_logo_container div img {
+    width: 3.1088541666666667vw;
+    height: 3.1088541666666667vw;
+    margin-bottom: 0.3645833333333333;
+} */
+
+.inside_banner_logo_container div p {
+    font-weight: 400;
+    font-size: 0.5728645833333333vw;
+    line-height: 0.8333333333333334vw;
+    margin-bottom: 0px;
+}
+
+.zip {
+    width: 3.7583333333333333vw;
+    height: 2.65625vw;
+    margin-bottom: 0.7328125vw;
+
+}
+
+.acrobat {
+    width: 3.1088541666666667vw;
+    height: 3.1088541666666667vw;
+    margin-bottom: 0.3645833333333333vw;
+
+}
+
+.audacity {
+    width: 3.230208333333333vw;
+    height: 3.230208333333333vw;
+    margin-bottom: 0.16354166666666667vw;
+}
+
+
+/* benifit-form========================================== */
+.benifit-form {
+    margin-bottom: 7.291666666666667vw;
+}
+
+.benifit-form>.row {
+    padding: 0vw 6.25vw;
+
+    padding-top: 4.21875vw;
+    padding-bottom: 2.2916666666666665vw;
+    background: #F4FCFF;
+
+}
+
+.product_benifit {
+    width: 23.802083333333332vw;
+    height: 100%;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.06);
+    border-radius: 0.6770833333333334vw;
+    padding-bottom: 0.9895833333333334vw;
+}
+
+.product_benifit h1 {
+    font-weight: 700;
+    font-size: 1.7708333333333333vw;
+    line-height: 2.65625vw;
+    width: 23.802083333333332vw;
+
+    height: 7.1875vw;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #171717;
+    border: 1px solid #1DBFFF;
+    border-radius: 0.6770833333333334vw;
+    margin-bottom: 3.5416666666666665vw;
+}
+
+.product_benifit ul {
+    margin-bottom: 2.7083333334vw;
+}
+
+.product_benifit ul li {
+    list-style: none;
+    font-weight: 400;
+    font-size: 0.9375vw;
+    margin-bottom: 1.3104166666666667vw;
+
+}
+
+.product_benifit ul li img {
+    width: 1.25vw;
+    height: 0.9322916666666665vw;
+    margin-right: 1.0416666666666667vw;
+}
+
+.product_benifit button {
+    width: 18.385416666666668vw;
+    height: 2.9166666666666665vw;
+
+    background: #0749CB;
+    border-radius: 3.28125vw;
+    border: none;
+    color: white;
+    font-size: 0.9375vw;
+}
+
+.form_container {
+    background-color: white;
+    box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.06);
+    border-radius: 0.6770833333333334vw;
+    padding: 1.5625vw;
+}
+
+.form_container h2 {
+    font-weight: 600;
+    font-size: 1.25vw;
+    line-height: 1.875vw;
+    width: 17.583333333333332vw;
+    margin-bottom: 1.09375vw;
+
+
+    color: #090909;
+}
+
+.left_h2 {
+    margin-bottom: 1.5625vw;
+}
+
+.form_container article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.40625vw;
+    width: 18.333333333333332vw;
+}
+
+.form-label {
+    font-weight: 400;
+    font-size: 0.8333333333333334vw;
+    margin-bottom: 0.4166666666666667vw;
+}
+
+.form-control {
+    width: 18.59375vw;
+    height: 2.7083333333333335vw;
+
+
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 3.0208333333333335vw;
+    margin-bottom: 0.9375vw;
+}
+
+.form button {
+    width: 18.59375vw;
+    height: 2.7083333333333335vw;
+    color: white;
+
+
+    background: #0749CB;
+    border-radius: 3.4895833333333335vw;
+    font-size: 0.9375vw;
+    border: none;
+    margin-top: 1.1270833333333333vw;
+}
+
+.form button:hover {
+    background-color: black;
+    cursor: pointer;
+}
+
+
+/* monitor heading ==================*/
+.monitor {
+    margin-bottom: 5.677083333333333vw;
+}
+
+.monitor h1 {
+    font-weight: 700;
+    font-size: 2.2916666666666665vw;
+    margin-bottom: 1.1458333333333333vw;
+}
+
+.monitor article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+}
+
+/* flow chart================ */
+.flow-chart {
+    padding: 0vw 6.25vw;
+    margin-bottom: 7.8125vw;
+}
+
+.flow-chart article {
+    width: 31.770833333333332vw;
+    font-size: 1.1458333333333333vw;
+}
+
+
+/* three-boxes================================== */
+.three-boxes {
+    padding: 0vw 6.25vw;
+    margin-bottom: 7.8125vw;
+}
+
+/* box1 */
+.Box1 {
+    width: 28.289583333333332vw;
+
+
+
+    background: #FFF0F0;
+    border: 1px solid #FF7474;
+    border-radius: 0.6770833333333334vw;
+}
+
+.Box1 img {
+    width: 2.2552083333333335vw;
+    height: 2.4994791666666667vw;
+    margin-top: 3.125vw;
+    margin-bottom: 2.5520833333333335vw;
+}
+
+.Box1 h3 {
+    font-weight: 700;
+    font-size: 1.25vw;
+    line-height: 1.875vw;
+}
+
+.Box1 article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.5708333333333333vw;
+    width: 24.322916666666668vw;
+    text-align: center;
+    margin-bottom: 2.8645833333333335vw;
+}
+
+
+
+/* box2 */
+.Box2 {
+    width: 28.289583333333332vw;
+
+
+
+    background: #F0FFF3;
+    border: 1px solid #75FE91;
+    border-radius: 0.6770833333333334vw;
+}
+
+.Box2 img {
+    width: 2.2552083333333335vw;
+    height: 2.4994791666666667vw;
+    margin-top: 3.125vw;
+    margin-bottom: 2.5520833333333335vw;
+}
+
+.Box2 h3 {
+    font-weight: 700;
+    font-size: 1.25vw;
+    line-height: 1.875vw;
+}
+
+.Box2 article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.5708333333333333vw;
+    width: 24.322916666666668vw;
+    text-align: center;
+    margin-bottom: 4.34583vw;
+}
+
+/* box3 */
+.Box3 {
+    width: 28.289583333333332vw;
+
+
+
+    background: #F2F0FF;
+    border: 1px solid #C9C0FF;
+    border-radius: 0.6770833333333334vw;
+}
+
+.Box3 img {
+    width: 2.2552083333333335vw;
+    height: 2.4994791666666667vw;
+    margin-top: 3.125vw;
+    margin-bottom: 2.5520833333333335vw;
+}
+
+.Box3 h3 {
+    font-weight: 700;
+    font-size: 1.25vw;
+    line-height: 1.875vw;
+}
+
+.Box3 article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.5708333333333333vw;
+    width: 24.322916666666668vw;
+    text-align: center;
+    margin-bottom: 2.8645833333333335vw;
+}
+
+
+
+/* software application===================== */
+.software_application {
+    background: #F4FCFF;
+    padding-top: 6.354166666666667vw;
+    padding-bottom: 4.557291666666667vw;
+}
+
+.software_application>.row .left {
+    padding-left: 6.25vw;
+}
+
+.software_application>.row .left h1 {
+    font-weight: 700;
+    font-size: 2.8125vw;
+    line-height: 3.8020833333333335vw;
+    color: #090909;
+    margin-bottom: 2.3958333333333335vw;
+}
+
+.software_application>.row .left ul li {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 2.4479166666666665vw;
+}
+
+
+
+/* use-case================================ */
+.use-case {
+    padding-left: 6.25vw;
+    padding-top: 7.8125vw;
+}
+
+.use-case h1 {
+    font-weight: 700;
+    font-size: 2.8125vw;
+    line-height: 3.8020833333333335vw;
+    margin-bottom: 1.1979166666666667vw;
+}
+
+.use-case article {
+    font-weight: 400;
+    font-size: 0.9375vw;
+    line-height: 1.9270833333333333vw;
+    margin-bottom: 4.270833333333333vw;
+    width: 51.666666666666664vw;
+
+}
+
+.use-case img {
+    width: 33.333333333333336vw;
+    height: 29.661979166666665vw;
+    position: relative;
+    top: 2vw;
+}
+
+
+
+/* before footer============================================= */
+.before-footer {
+    background-color: #009EE2;
+    padding-top: 5.3125vw;
+    padding-bottom: 5.46875vw;
+
+}
+
+.before-footer h1 {
+    width: 57.760416666666664vw;
+    font-weight: 700;
+    font-size: 1.875vw;
+    line-height: 174.5%;
+    margin-bottom: 2.7604166666666665vw;
+}
+
+.before-footer p {
+    font-weight: 500;
+    font-size: 1.1458333333333333vw;
+    line-height: 204.5%;
+    margin-bottom: 2.0833333333333335vw;
+}
+
+.before-footer button {
+    width: 10.520833333333334vw;
+    height: 2.9166666666666665vw;
+
+    font-size: 0.9375vw;
+    background: #0749CB;
+    border: 2px solid #FFFFFF;
+    border-radius: 3.28125vw;
+}
+
+footer {
+    padding: 0vw 6.25vw;
+    background-color: black;
+}
+
+footer .one {
+    padding-top: 2.5520833333333335vw;
+    padding-bottom: 1.3458333333333334vw;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.24);
+}
+
+.footer-logo img {
+    width: 9.98125vw;
+    height: 3.341666666666667vw;
+}
+
+.footer-icon ul {
+    display: flex;
+    width: 11.197916666666666vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-icon ul li {
+    list-style: none;
+}
+
+.two {
+    padding-top: 1.71875vw;
+    padding-bottom: 2.5vw;
+}
+
+.two p {
+    font-size: 0.9375vw;
+}
+
+.two ul {
+    width: 31.510416666666668vw;
+}
+
+.two ul li {
+    list-style: none;
+
+}
+
+.two ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9375vw;
+}
+
+.linked_in {
+    width: 1.1963541666666666vw;
+    height: 1.1432291666666667vw;
+}
+
+.instagram {
+    width: 1.2755208333333334vw;
+    height: 1.2755208333333334vw;
+}
+
+.twitter {
+    width: 1.4578125vw;
+    height: 1.1848958333333333vw;
+}
+
+.facebook {
+    width: 0.5776041666666667vw;
+    height: 1.2427083333333333vw;
+}
+
+
+
+@media screen and (max-width:575px) {
+    .navbar-brand img {
+        width: 26.719271vw;
+        height: 8.880729vw;
+    }
+
+    .navbar {
+        padding: 0vw 6.25vw;
+        margin-top: 6.03125vw;
+        margin-bottom: 21.666667vw;
+    }
+
+    .banner-image {
+        width: 80.822917vw;
+        height: 57.239583vw;
+    }
+
+    .navbar form {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 8vw;
+
+    }
+    .request {
+        width: 83.520833vw;
+        height: 8.516667vw;
+        border-radius: 6.28125vw;
+        background: #0749CB;
+        color: white;
+        font-size: 2.5375vw;
+        font-weight: 500;
+    }
+    .login {
+        width: 83.520833vw;
+        height: 8.516667vw;
+        border-radius: 6.28125vw;
+        margin-bottom: 4vw;
+       
+      
+        font-size: 2.5375vw;
+        font-weight: 500;
+    }
+    .banner h1 {
+        font-weight: 700;
+        font-size: 8.333333vw;
+        line-height: 9.53125vw;
+        width: 86.260417vw;
+        margin-bottom: 6.083333vw;
+        margin-top:6vw;
+    }
+    .banner article {
+        margin-bottom: 6.489583vw;
+        width: 88vw;
+        font-weight: 400;
+        font-size: 2.9375vw;
+        line-height: 3.666667vw;
+    }
+    .inside_banner {
+        width: 94.479167vw;
+    }
+    .inside_banner h2 {
+        font-weight: 600;
+        font-size: 5.358333vw;
+        line-height: 7.1875vw;
+        margin-bottom: 5.410417vw;
+        margin-top: 3vw;
+    }
+    .inside_banner_logo_container div {
+        background: #F9F9F9;
+        box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
+        border-radius: 4.817734vw;
+        width: 68.969271vw;
+        height: 54.396875vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 7vw;
+    }
+    .acrobat {
+        width: 30.108854vw;
+        height: 24.108854vw;
+        margin-bottom: 3.364583vw;
+    }
+    .inside_banner_logo_container div p {
+        font-weight: 400;
+        font-size: 3.572865vw;
+        line-height: 0.8333333333333334vw;
+        margin-bottom: 0px;
+    }
+    .zip {
+        width: 25.758333vw;
+        height: 17.65625vw;
+        margin-bottom: 3.732813vw;
+    }
+    .audacity {
+        width: 24.230208vw;
+        height: 24.230208vw;
+        margin-bottom: 3.163542vw;
+    }
+    .benifit-form>.row {
+        padding: 0vw 6.25vw;
+        padding-top: 12.21875vw;
+        padding-bottom: 17.291667vw;
+        background: #F4FCFF;
+    }
+    .product_benifit {
+        width: 88.802083vw;
+        padding-bottom: 8.989583vw;
+        margin-bottom: 6vw;
+    }
+    .product_benifit h1 {
+        font-weight: 700;
+        font-size: 5.770833vw;
+        line-height: 2.65625vw;
+        width: 88.802083vw;
+        height: 20.1875vw;
+        margin-bottom: 9.541667vw;
+    }
+    .product_benifit ul {
+        padding-left: 5rem;
+    }
+    .product_benifit ul li {
+        list-style: none;
+        font-weight: 400;
+        font-size: 2.9375vw;
+        margin-bottom: 4.310417vw;
+    }
+    .product_benifit ul li img {
+        width: 3.95vw;
+        height: 2.932292vw;
+        margin-right: 3.041667vw;
+    }
+    .product_benifit button {
+        width: 74.385417vw;
+        height: 9.916667vw;
+        background: #0749CB;
+        border-radius: 7.28125vw;
+        border: none;
+        color: white;
+        font-size: 2.9375vw;
+    }
+    .form_container{
+        padding-bottom: 11vw;
+    }
+    .form_container h2 {
+        font-weight: 600;
+        font-size: 5.25vw;
+        line-height: 5.875vw;
+        width: 85.583333333333332vw;
+        margin-bottom: 1.09375vw;
+        color: #090909;
+    }
+    .form_container article {
+        font-weight: 400;
+        font-size: 2.9375vw;
+        line-height: 4.40625vw;
+        width: 85.333333333333332vw;
+        margin-top: 4vw;
+    }
+    .form-label {
+        font-weight: 400;
+        font-size: 2.833333vw;
+        margin-bottom: 1.416667vw;
+    }
+    .form-control {
+        width: 84.59375vw;
+        height: 8.708333vw;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        border-radius: 7.020833vw;
+        margin-bottom: 0.9375vw;
+    }
+    .form button {
+        width: 84.59375vw;
+        height: 8.708333vw;
+        color: white;
+        background: #0749CB;
+        border-radius: 6.489583vw;
+        font-size: 2.9375vw;
+        border: none;
+        margin-top: 6.127083vw;
+    }
+    .monitor h1 {
+        font-weight: 700;
+        font-size: 6.291667vw;
+        margin-bottom: 4.1458333333333333vw;
+    }
+    .monitor article {
+        font-weight: 400;
+        font-size: 2.9375vw;
+    }
+    .flow-chart article {
+        width: 87.770833vw;
+        font-size: 2.90vw;
+        margin-bottom: 6vw;
+    }
+    .three-boxes-container{
+        flex-direction: column;
+    }
+    .Box1 ,.Box2,.Box3{
+        margin-bottom: 6vw;
+        width: 62.289583vw;
+    }
+    .Box1 img, .Box2 img, .Box3 img {
+        width: 8.255208vw;
+        height: 8.499479vw;
+        margin-top: 6.125vw;
+        margin-bottom: 2.5520833333333335vw;
+    }
+    .Box1 h3, .Box2 h3, .Box3 h3 {
+        font-weight: 700;
+        font-size: 3.25vw;
+        line-height: 4.875vw;
+    }
+    .Box1 article, .Box2 article, .Box3 article {
+        font-weight: 400;
+        font-size: 2vw;
+        line-height: 2.570833vw;
+        width: 50.322917vw;
+        text-align: center;
+        margin-bottom: 5.864583vw;
+    }
+    .software_application>.row .left h1 {
+        font-weight: 700;
+        font-size: 7.8125vw;
+        line-height: 8.802083vw;
+        color: #090909;
+        margin-bottom: 8.395833vw;
+    }
+    .software_application {
+        background: #F4FCFF;
+        padding-top: 13.354167vw;
+        padding-bottom: 7.557292vw;
+    }
+    .software_application>.row .left ul li {
+        font-weight: 400;
+        font-size: 2.9375vw;
+        line-height: 6.447917vw;
+    }
+    .use-case {
+        padding-left: 6.25vw;
+        padding-top: 15.8125vw;
+    }
+    .use-case h1 {
+        font-weight: 700;
+        font-size: 6.8125vw;
+        line-height: 5.802083vw;
+        margin-bottom: 5.197917vw;
+    }
+    .use-case article {
+        font-weight: 400;
+        font-size: 2.9375vw;
+        line-height: 3.927083vw;
+        margin-bottom: 8.270833vw;
+        width: 85.666667vw;
+    }
+    .use-case img {
+        width: 88.333333vw;
+        height: 75.661979vw;
+        position: relative;
+        top: 5vw;
+    }
+    .before-footer {
+        background-color: #009EE2;
+        padding-top: 18.3125vw;
+        padding-bottom: 18.46875vw;
+    }
+    .before-footer h1 {
+        width: 85.760417vw;
+        font-weight: 700;
+        font-size: 5.975vw;
+        line-height: 174.5%;
+        margin-bottom: 2.7604166666666665vw;
+    }
+    .before-footer p {
+        font-weight: 500;
+        font-size: 2.945833vw;
+        line-height: 205.5%;
+        margin-bottom: 3.083333vw;
+    }
+    .before-footer button {
+        width: 84.520833vw;
+        height: 9.916667vw;
+        font-size: 2.9375vw;
+        background: #0749CB;
+        border: 2px solid #FFFFFF;
+        border-radius: 18.28125vw;
+    }
+    .footer-logo img {
+        width: 22.98125vw;
+        height: 8vw;
+    }
+    .linked_in {
+        width: 2.196354vw;
+        height: 2.143229vw;
+    }
+    .instagram {
+        width: 2.275521vw;
+        height: 2.275521vw;
+    }
+    .twitter {
+        width: 2.457813vw;
+        height: 2.184896vw;
+    }
+    .facebook {
+        width: 1.577604vw;
+        height: 2.242708vw;
+    }
+    .footer-icon ul {
+        display: flex;
+        width: 20.197917vw;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .two ul {
+        width: 62.510417vw;
+    }
+    .two ul li a {
+        text-decoration: none;
+        color: white;
+        font-size: 1.9375vw;
+    }
+    .two p {
+        font-size: 1.9375vw;
+    }
+
+}
