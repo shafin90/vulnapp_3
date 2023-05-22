@@ -243,7 +243,9 @@ body {
 
     color: #090909;
 }
-
+/* .form_container>.col{
+    margin-bottom: 0px;
+} */
 .left_h2 {
     margin-bottom: 1.5625vw;
 }
