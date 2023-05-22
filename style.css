@@ -911,5 +911,8 @@ footer .one {
     .two p {
         font-size: 1.9375vw;
     }
+    body{
+        overflow-x: hidden;
+    }
 
 }
