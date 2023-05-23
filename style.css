@@ -1031,28 +1031,35 @@ footer .one {
         border-radius: 18.28125vw;
     }
 
+
+    footer .one {
+        padding-top: 10.552083vw;
+        padding-bottom: 1.3458333333333334vw;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.24);
+    }
+
     .footer-logo img {
-        width: 40.98125vw;
+        width: 41.98125vw;
         height: 15vw;
     }
     .linked_in {
-        width: 2.196354vw;
-        height: 2.143229vw;
+        width: 3.196354vw;
+        height: 3.143229vw;
     }
 
     .instagram {
-        width: 2.275521vw;
-        height: 2.275521vw;
+        width: 3.275521vw;
+        height: 3.275521vw;
     }
 
     .twitter {
-        width: 2.457813vw;
-        height: 2.184896vw;
+        width: 3.457813vw;
+        height: 3.184896vw;
     }
 
     .facebook {
-        width: 1.577604vw;
-        height: 2.242708vw;
+        width: 2.577604vw;
+        height: 3.242708vw;
     }
 
     .footer-icon ul {
@@ -1063,17 +1070,18 @@ footer .one {
     }
 
     .two ul {
-        width: 62.510417vw;
+        width: 78.510417vw;
     }
 
     .two ul li a {
         text-decoration: none;
         color: white;
-        font-size: 1.9375vw;
+        font-size: 2.3vw;
     }
 
+
     .two p {
-        font-size: 1.9375vw;
+        font-size: 2.3vw;
     }
 
     body {
