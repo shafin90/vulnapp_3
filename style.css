@@ -1032,16 +1032,16 @@ footer .one {
         margin-bottom: 3.083333vw;
     }
 
-    .before-footer button {
+    .before-footer button{
         width: 85.520833vw;
         height: 13.516667vw;
         font-size: 3.7vw;
         background: #0749CB;
         border: 2px solid #FFFFFF;
         border-radius: 18.28125vw;
+        text-decoration: none;
     }
-
-
+   
     footer .one {
         padding-top: 10.552083vw;
         padding-bottom: 1.3458333333333334vw;
@@ -1126,6 +1126,10 @@ footer .one {
     }
     .input-div{
         height: 24.254133vw;
+    }
+    .form-container-second-article{
+        position: relative;
+        left: -3vw;
     }
     
 
