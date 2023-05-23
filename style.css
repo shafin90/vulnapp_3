@@ -709,13 +709,14 @@ footer .one {
     }
 
     .inside_banner h2 {
-        font-weight: 600;
-        font-size: 5.358333vw;
-        line-height: 7.1875vw;
-        margin-bottom: 5.410417vw;
+        font-weight: 700;
+        font-size: 7vw;
+        line-height: 10.1875vw;
+        margin-bottom: 9.410417vw;
         margin-top: 3vw;
     }
-
+    
+    
     .inside_banner_logo_container div {
         background: #F9F9F9;
         box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
@@ -726,7 +727,7 @@ footer .one {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-bottom: 7vw;
+        margin-bottom: 11vw;
     }
 
     .acrobat {
@@ -760,48 +761,60 @@ footer .one {
         background: #F4FCFF;
     }
 
-    .product_benifit {
-        width: 88.802083vw;
-        padding-bottom: 8.989583vw;
-        margin-bottom: 6vw;
+    .product-benifit {
+        width: 83.802083vw;
+        height: 179.729167vw;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.06);
+        border-radius: 2.677083vw;
+        padding-bottom: 0.9895833333333334vw;
+        position: relative;
+        left: 0vw;
+        margin-bottom: 14vw;
+
     }
 
-    .product_benifit h1 {
+    .product-benifit div h1 {
         font-weight: 700;
-        font-size: 5.770833vw;
+        font-size: 8vw;
         line-height: 2.65625vw;
-        width: 88.802083vw;
-        height: 20.1875vw;
-        margin-bottom: 9.541667vw;
-    }
-
-    .product_benifit ul {
-        padding-left: 5rem;
-    }
-
-    .product_benifit ul li {
-        list-style: none;
-        font-weight: 400;
-        font-size: 2.9375vw;
-        margin-bottom: 4.310417vw;
-    }
-
-    .product_benifit ul li img {
-        width: 3.95vw;
-        height: 2.932292vw;
-        margin-right: 3.041667vw;
-    }
-
-    .product_benifit button {
-      
-        width: 74.385417vw;
-        height: 9.916667vw;
-        background: #0749CB;
-        border-radius: 7.28125vw;
-        border: none;
         color: white;
-        font-size: 2.9375vw;
-       
+        width: 100%;
+        background: #171717;
+        border: 1px solid #1DBFFF;
+        height: 31.1875vw;
+        border-radius: 2.677083vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 11.541667vw;
+    }
+    .product-benifit ul {
+        margin-bottom: 21.2003vw;
+    }
+
+    .product-benifit ul li {
+        list-style: none;
+        font-weight: 500;
+        font-size: 3.7vw;
+        line-height: 5.40625vw;
+        margin-bottom: 5.110417vw;
+    }
+
+    .product-benifit ul li img {
+        width: 4vw;
+        height: 2.932292vw;
+        margin-right: 2.6vw;
+    }
+
+    .product-benifit button {
+        width: 67.520833vw;
+        height: 12.516667vw;
+        background: #0749CB;
+        border-radius: 8.28125vw;
+        color: white;
+        border: none;
+        font-size: 3.7vw;
     }
 
     .form_container {
