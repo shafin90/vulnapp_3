@@ -685,8 +685,8 @@ footer .one {
         margin-bottom: 6.083333vw;
         margin-top: 6vw;
     }
-    
-    
+
+
 
     .banner_first_article {
         margin-bottom: 6.489583vw;
@@ -715,8 +715,8 @@ footer .one {
         margin-bottom: 9.410417vw;
         margin-top: 3vw;
     }
-    
-    
+
+
     .inside_banner_logo_container div {
         background: #F9F9F9;
         box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
@@ -735,6 +735,7 @@ footer .one {
         height: 21.108854vw;
         margin-bottom: 3.364583vw;
     }
+
     .inside_banner_logo_container div p {
         font-weight: 400;
         font-size: 3.572865vw;
@@ -789,6 +790,7 @@ footer .one {
         align-items: center;
         margin-bottom: 11.541667vw;
     }
+
     .product-benifit ul {
         margin-bottom: 21.2003vw;
     }
@@ -819,7 +821,7 @@ footer .one {
 
     .form-container {
         width: 89.322917vw;
-        height: 185.729167vw;
+        height: 259.729167vw;
         position: relative;
         left: 0vw;
         background: #FFFFFF;
@@ -839,6 +841,7 @@ footer .one {
         color: #090909;
         width: 85.583333vw;
     }
+
     .form-container p {
         font-weight: 500;
         font-size: 3.7vw;
@@ -846,6 +849,7 @@ footer .one {
         width: 81.333333vw;
         color: #090909;
     }
+
     .form h2 {
         font-weight: 600;
         font-size: 6.25vw;
@@ -864,38 +868,38 @@ footer .one {
 
     .form-label {
         font-weight: 400;
-        font-size: 2.833333vw;
-        margin-bottom: 1.416667vw;
+        font-size: 3.87vw;
+        margin-bottom: 4.416667vw;
     }
 
+
     .form-control {
-        width: 84.59375vw;
-        height: 8.708333vw;
+        width: 76.59375vw;
+        height: 11.708333vw;
         border: 1px solid rgba(0, 0, 0, 0.3);
         border-radius: 7.020833vw;
-        margin-bottom: 0.9375vw;
+        margin-bottom: 4.9375vw;
+        font-size: 3.7vw;
     }
 
     .form button {
-        width: 84.59375vw;
-        height: 8.708333vw;
+        width: 77.59375vw;
+        height: 11.708333vw;
         color: white;
         background: #0749CB;
         border-radius: 6.489583vw;
-        font-size: 2.9375vw;
+        font-size: 3.7vw;
         border: none;
         margin-top: 6.127083vw;
     }
-
     .monitor h1 {
         font-weight: 700;
-        font-size: 6.291667vw;
-        margin-bottom: 4.1458333333333333vw;
+        font-size: 8.291667vw;
+        margin-bottom: 12.145833vw;
     }
-
     .monitor article {
         font-weight: 400;
-        font-size: 2.9375vw;
+        font-size: 3.7vw;
     }
 
     .flow-chart article {
@@ -1115,6 +1119,7 @@ footer .one {
         color: #090909;
         margin-bottom: 0.709375vw;
     }
+
     .form-control {
         width: 18.59375vw;
         height: 2.7083333333333335vw;
@@ -1124,6 +1129,7 @@ footer .one {
         border: 1px solid rgba(0, 0, 0, 0.3);
         border-radius: 3.0208333333333335vw;
     }
+
     .form-control {
         width: 18.59375vw;
         height: 2.6083333333333335vw;
@@ -1135,4 +1141,3 @@ footer .one {
     }
 
 }
-
