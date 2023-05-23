@@ -679,12 +679,14 @@ footer .one {
 
     .banner h1 {
         font-weight: 700;
-        font-size: 8.333333vw;
-        line-height: 9.53125vw;
-        width: 86.260417vw;
+        font-size: 9.333333vw;
+        line-height: 10.53125vw;
+        width: 91.260417vw;
         margin-bottom: 6.083333vw;
         margin-top: 6vw;
     }
+    
+    
 
     .banner article {
         margin-bottom: 6.489583vw;
