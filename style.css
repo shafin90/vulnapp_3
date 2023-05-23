@@ -2,6 +2,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* this is a customized class to add hover effect to any button */
+.hover_black:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 body {
     overflow-x: hidden;
 }
