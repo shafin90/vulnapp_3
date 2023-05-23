@@ -720,8 +720,8 @@ footer .one {
         background: #F9F9F9;
         box-shadow: 0px 3.1401px 23.5507px rgba(0, 0, 0, 0.15);
         border-radius: 4.817734vw;
-        width: 68.969271vw;
-        height: 54.396875vw;
+        width: 54.969271vw;
+        height: 44.396875vw;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -730,11 +730,10 @@ footer .one {
     }
 
     .acrobat {
-        width: 30.108854vw;
-        height: 24.108854vw;
+        width: 25.108854vw;
+        height: 21.108854vw;
         margin-bottom: 3.364583vw;
     }
-
     .inside_banner_logo_container div p {
         font-weight: 400;
         font-size: 3.572865vw;
