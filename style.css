@@ -835,7 +835,7 @@ footer .one {
 
     .form-container-h2 {
         font-weight: 600;
-        font-size: 6.25vw;
+        font-size: 8vw;
         line-height: 6.875vw;
         margin-bottom: 5.5625vw;
         color: #090909;
@@ -843,10 +843,10 @@ footer .one {
     }
 
     .form-container p {
-        font-weight: 500;
+        font-weight: 400;
         font-size: 3.7vw;
-        line-height: 4.40625vw;
-        width: 81.333333vw;
+        line-height: 6.40625vw;
+        width: 80.333333vw;
         color: #090909;
     }
 
@@ -892,20 +892,24 @@ footer .one {
         border: none;
         margin-top: 6.127083vw;
     }
+
     .monitor h1 {
         font-weight: 700;
         font-size: 8.291667vw;
         margin-bottom: 12.145833vw;
     }
+
     .monitor article {
         font-weight: 400;
         font-size: 3.7vw;
     }
 
     .flow-chart article {
-        width: 87.770833vw;
-        font-size: 2.90vw;
-        margin-bottom: 6vw;
+        width: 89.770833vw;
+        font-size: 3.7vw;
+        margin-bottom: 10vw;
+        font-weight: 400;
+        text-align: center;
     }
 
     .three-boxes-container {
@@ -916,7 +920,8 @@ footer .one {
     .Box2,
     .Box3 {
         margin-bottom: 6vw;
-        width: 62.289583vw;
+        width: 80.289583vw;
+        border-radius: 3vw;
     }
 
     .Box1 img,
@@ -924,27 +929,31 @@ footer .one {
     .Box3 img {
         width: 8.255208vw;
         height: 8.499479vw;
-        margin-top: 6.125vw;
-        margin-bottom: 2.5520833333333335vw;
+        margin-top: 10.125vw;
+        margin-bottom: 6.552083vw;
+
     }
 
     .Box1 h3,
     .Box2 h3,
     .Box3 h3 {
         font-weight: 700;
-        font-size: 3.25vw;
-        line-height: 4.875vw;
+        font-size: 5vw;
+        line-height: 9.875vw;
+
+     
+
     }
 
     .Box1 article,
     .Box2 article,
     .Box3 article {
         font-weight: 400;
-        font-size: 2vw;
-        line-height: 2.570833vw;
-        width: 50.322917vw;
+        font-size: 3vw;
+        line-height: 4.570833vw;
+        width: 64.322917vw;
         text-align: center;
-        margin-bottom: 5.864583vw;
+        margin-bottom: 9.864583vw;
     }
 
     .software_application>.row .left h1 {
