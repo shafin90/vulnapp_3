@@ -1132,7 +1132,13 @@ footer .one {
     .input-div{
         height: 24.254133vw;
     }
+
+    /* this things are from the form container=========================== */
     .form-container-second-article{
+        position: relative;
+        left: -3vw;
+    }
+    .request_a_live_demo{
         position: relative;
         left: -3vw;
     }
