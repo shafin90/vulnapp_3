@@ -635,7 +635,9 @@ footer .one {
     height: 1.2427083333333333vw;
 }
 
-
+.input-div{
+    height: 5.254133vw;
+}
 
 @media screen and (max-width:575px) {
     .navbar-brand img {
@@ -1125,6 +1127,8 @@ footer .one {
 
 
 }
+
+
 
 @media screen and (min-width:1300px) and (max-width:1900px) {
 
