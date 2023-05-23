@@ -129,11 +129,6 @@ body {
     align-items: center;
 }
 
-/* .inside_banner_logo_container div img {
-    width: 3.1088541666666667vw;
-    height: 3.1088541666666667vw;
-    margin-bottom: 0.3645833333333333;
-} */
 
 .inside_banner_logo_container div p {
     font-weight: 400;
@@ -554,7 +549,7 @@ body {
     margin-bottom: 2.0833333333333335vw;
 }
 
-.before-footer button {
+.before-footer a{
     width: 10.520833333333334vw;
     height: 2.9166666666666665vw;
 
@@ -564,6 +559,8 @@ body {
     border-radius: 3.28125vw;
 }
 
+
+/* footer=========================================== */
 footer {
     padding: 0vw 6.25vw;
     background-color: black;
@@ -1033,7 +1030,7 @@ footer .one {
         margin-bottom: 3.083333vw;
     }
 
-    .before-footer button{
+    .before-footer a.button{
         width: 85.520833vw;
         height: 13.516667vw;
         font-size: 3.7vw;
@@ -1041,7 +1038,10 @@ footer .one {
         border: 2px solid #FFFFFF;
         border-radius: 18.28125vw;
         text-decoration: none;
+        
+        
     }
+
    
     footer .one {
         padding-top: 10.552083vw;
