@@ -631,8 +631,8 @@ footer .one {
 
 @media screen and (max-width:575px) {
     .navbar-brand img {
-        width: 26.719271vw;
-        height: 8.880729vw;
+        width: 40.719271vw;
+        height: 13.880729vw;
     }
 
     .navbar {
@@ -642,8 +642,8 @@ footer .one {
     }
 
     .banner-image {
-        width: 80.822917vw;
-        height: 57.239583vw;
+        width: 90.822917vw;
+        height: 68.239583vw;
     }
 
     .navbar form {
@@ -657,23 +657,23 @@ footer .one {
     }
 
     .request {
-        width: 83.520833vw;
-        height: 8.516667vw;
+        width: 85.520833vw;
+        height: 13.516667vw;
         border-radius: 6.28125vw;
         background: #0749CB;
         color: white;
-        font-size: 2.5375vw;
+        font-size: 3.8vw;
         font-weight: 500;
     }
 
     .login {
-        width: 83.520833vw;
-        height: 8.516667vw;
+        width: 85.520833vw;
+        height: 13.516667vw;
         border-radius: 6.28125vw;
         margin-bottom: 4vw;
 
 
-        font-size: 2.5375vw;
+        font-size: 3.8vw;
         font-weight: 500;
     }
 
