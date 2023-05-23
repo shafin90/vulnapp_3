@@ -387,6 +387,7 @@ body {
     font-weight: 700;
     font-size: 1.25vw;
     line-height: 1.875vw;
+    margin-bottom: 0.625vw;
 }
 
 .Box1 article {
@@ -422,6 +423,7 @@ body {
     font-weight: 700;
     font-size: 1.25vw;
     line-height: 1.875vw;
+    margin-bottom: 0.625vw;
 }
 
 .Box2 article {
@@ -455,6 +457,7 @@ body {
     font-weight: 700;
     font-size: 1.25vw;
     line-height: 1.875vw;
+    margin-bottom: 0.625vw;
 }
 
 .Box3 article {
@@ -631,6 +634,7 @@ footer .one {
     width: 0.5776041666666667vw;
     height: 1.2427083333333333vw;
 }
+/* this is in the form section. this div containe tha label and input feild */
 
 .input-div{
     height: 5.254133vw;
