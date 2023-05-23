@@ -972,8 +972,8 @@ footer .one {
 
     .software_application>.row .left ul li {
         font-weight: 400;
-        font-size: 2.9375vw;
-        line-height: 6.447917vw;
+        font-size: 3.7vw;
+        line-height: 7.447917vw;
     }
 
     .use-case {
@@ -983,26 +983,24 @@ footer .one {
 
     .use-case h1 {
         font-weight: 700;
-        font-size: 6.8125vw;
+        font-size: 9.8125vw;
         line-height: 5.802083vw;
-        margin-bottom: 5.197917vw;
+        margin-bottom: 8.197917vw;
     }
-
     .use-case article {
         font-weight: 400;
-        font-size: 2.9375vw;
-        line-height: 3.927083vw;
+        font-size: 3.7vw;
+        line-height: 5.927083vw;
         margin-bottom: 8.270833vw;
-        width: 85.666667vw;
+        width: 90.666667vw;
     }
 
     .use-case img {
-        width: 88.333333vw;
-        height: 75.661979vw;
+        width: 92.333333vw;
+        height: 84.661979vw;
         position: relative;
         top: 5vw;
     }
-
     .before-footer {
         background-color: #009EE2;
         padding-top: 18.3125vw;
