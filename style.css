@@ -680,7 +680,7 @@ footer .one {
     .banner h1 {
         font-weight: 700;
         font-size: 9.333333vw;
-        line-height: 10.53125vw;
+        line-height: 11.53125vw;
         width: 91.260417vw;
         margin-bottom: 6.083333vw;
         margin-top: 6vw;
@@ -688,12 +688,20 @@ footer .one {
     
     
 
-    .banner article {
+    .banner_first_article {
         margin-bottom: 6.489583vw;
-        width: 88vw;
+        width: 90vw;
         font-weight: 400;
-        font-size: 2.9375vw;
-        line-height: 3.666667vw;
+        font-size: 3.7vw;
+        line-height: 5vw;
+    }
+
+    .banner article.banner_second_article {
+        margin-bottom: 28.489583vw;
+        width: 91vw;
+        font-weight: 400;
+        font-size: 3.7375vw;
+        line-height: 4.666667vw;
     }
 
     .inside_banner {
